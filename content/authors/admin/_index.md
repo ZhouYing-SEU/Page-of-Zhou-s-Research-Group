@@ -1,40 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prof. Ying Zhou (周颖)
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Ying
+last_name: Zhou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Architecture
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Southeast University
+    url: 'https://arch.seu.edu.cn/zy2_43327/main.psp'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am primarily involved in teaching, research, and design in the fields of healthcare, elderly well-being, education, and transportation architecture. My recent research focuses on crowd analysis, pedestrian simulation, scenario analysis, and case studies using environmental behavioral, human factors efficacy, and complexity science methods.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Architectural Design
+  - Computational Design
+  - Human Well-being
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Architecture
+      institution: Southeast University
       year: 2012
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Southeast University
       year: 2009
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Southeast University
       year: 2008
 
 # Social/Academic Networking
