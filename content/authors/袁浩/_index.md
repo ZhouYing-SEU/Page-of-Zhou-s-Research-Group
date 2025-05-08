@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Mr. Erxin TU (图尔新)
+title: Dr. Hao YUAN (袁浩)
 
 # Full name (for SEO)
-first_name: Erxin
-last_name: Tu
+first_name: Hao
+last_name: YUAN
 
 # Username (this should match the folder name)
 authors:
-  - 图尔新 
+  - 袁浩 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate 
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Grad Students
-  - Researchers
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
