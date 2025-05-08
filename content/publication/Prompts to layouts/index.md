@@ -1,9 +1,9 @@
 ---
 title: "Prompts to layouts: Hybrid graph neural network and agent-based model for generative architectural design"
 authors:
-- Yangpeng Xin
+- 辛阳鹏
 - admin
-- Yuanyuan Liu
+- 刘原原
 author_notes:
 - "Author"
 - "Corresponding Author"
