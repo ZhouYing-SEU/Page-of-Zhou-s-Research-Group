@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Professor Ying Zhou is primarily involved in teaching, research, and design in the fields of healthcare, elderly well-being, education, and transportation architecture. My recent research focuses on crowd analysis, pedestrian simulation, scenario analysis, and case studies using environmental behavioral, human factors efficacy, and complexity science methods.
