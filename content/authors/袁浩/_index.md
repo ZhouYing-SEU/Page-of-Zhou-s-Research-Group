@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Dr. Hao YUAN (袁浩)
+title: Mr. Erxin TU (图尔新)
 
 # Full name (for SEO)
-first_name: Hao
-last_name: YUAN
+first_name: Erxin
+last_name: Tu
 
 # Username (this should match the folder name)
 authors:
-  - 袁浩 
+  - 图尔新 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD
+role: PhD Candidate 
 
 # Organizations/Affiliations
 organizations:
