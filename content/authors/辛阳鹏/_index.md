@@ -1,40 +1,44 @@
 ---
 # Display name
-title: Prof. Ying ZHOU (周颖)
+title: Mr. Yangpeng XIN (辛阳鹏)
 
-# Full Name (for SEO)
-first_name: Ying
-last_name: Zhou
+# Full name (for SEO)
+first_name: Yuanyuan
+last_name: Liu
+
+# Username (this should match the folder name)
+authors:
+  - 刘原原 
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Architecture
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
   - name: Southeast University
-    url: 'https://arch.seu.edu.cn/zy2_43327/main.psp'
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am primarily involved in teaching, research, and design in the fields of healthcare, elderly well-being, education, and transportation architecture. My recent research focuses on crowd analysis, pedestrian simulation, scenario analysis, and case studies using environmental behavioral, human factors efficacy, and complexity science methods.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Architectural Design
-  - Computational Design
-  - Human Well-being
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Architecture
-      institution: Tokyo University
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
       year: 2012
-    - course: Master of Architecture 
-      institution: Southeast University
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
       year: 2009
-    - course: Bachelor of Architecture 
-      institution: Southeast University
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
       year: 2008
 
 # Social/Academic Networking
@@ -63,16 +67,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
   - Researchers
+  - Visitors
 ---
 
-Professor Ying Zhou is primarily involved in teaching, research, and design in the fields of healthcare, elderly well-being, education, and transportation architecture. My recent research focuses on crowd analysis, pedestrian simulation, scenario analysis, and case studies using environmental behavioral, human factors efficacy, and complexity science methods.
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
