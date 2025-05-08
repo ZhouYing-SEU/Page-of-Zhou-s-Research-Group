@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Ying Zhou (周颖)
+title: Prof. Ying ZHOU (周颖)
 
 # Full Name (for SEO)
 first_name: Ying
@@ -28,12 +28,12 @@ interests:
 education:
   courses:
     - course: PhD in Architecture
-      institution: Southeast University
+      institution: Tokyo University
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: Master of Architecture 
       institution: Southeast University
       year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: Bachelor of Architecture 
       institution: Southeast University
       year: 2008
 

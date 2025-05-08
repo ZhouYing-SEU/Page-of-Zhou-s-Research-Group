@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Prof. Zhou 周颖 教授
+title: Dr. Yuanyuan LIU (刘原原)
 
 # Full name (for SEO)
-first_name: Ying
-last_name: Zhou
+first_name: Yuanyuan
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - Ying Zhou
+  - 刘原原 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Southeast University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
