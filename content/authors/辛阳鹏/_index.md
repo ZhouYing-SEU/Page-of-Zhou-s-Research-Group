@@ -3,18 +3,18 @@
 title: Mr. Yangpeng XIN (辛阳鹏)
 
 # Full name (for SEO)
-first_name: Yuanyuan
-last_name: Liu
+first_name: Yangpeng
+last_name: Xin
 
 # Username (this should match the folder name)
 authors:
-  - 刘原原 
+  - 辛阳鹏 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
