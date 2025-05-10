@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'If-then rules for events'
+  caption: 'Agent walking trajectories in event-level tests'
   focal_point: ""
   preview_only: false
 
