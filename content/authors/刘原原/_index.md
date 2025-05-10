@@ -29,7 +29,7 @@ bio: Assistant Researcher at Southeast University and be awarded the Jiangsu Fun
 interests:
   - Artificial Intelligence
   - Multi-Agent Simulation
-  - Healthcare Environment
+  - Healthcare Environments
   - Age Friendly Communities
 
 education:
