@@ -22,7 +22,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Assistant Researcher at Southeast University and be awarded the Jiangsu Funding Program for Excellent Postdoctoral Talent title. Serves as a member of several professional committees, including the Environmental Behavior Committee and the Aging-Friendly Architecture Committee of the Architectural Society of China, the Hospital Architecture and Culture Subcommittee of the Chinese Architectural Culture Research Association, the Green Hospital Architecture Association of Jiangsu Civil and Architectural Society, and acts as a liaison officer for the Jiangsu Research Association on Aging Development (Aging Civilization Think Tank).
+bio: Previously supported by the China Scholarship Council (CSC), obtained a Ph.D. in Engineering from Nagoya Institute of Technology in Japan. Holds dual Master’s degrees in Architecture from Tongji University and in Engineering from Nagoya Institute of Technology as part of a double-degree program.
+
+
 
 interests:
   - Artificial Intelligence
