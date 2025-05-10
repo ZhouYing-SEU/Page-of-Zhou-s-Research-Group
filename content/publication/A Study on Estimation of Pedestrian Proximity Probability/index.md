@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "Author"
 - "Corresponding Author"
-date: "2025-05-01T00:00:00Z"
+date: "2021-11-01T00:00:00Z"
 doi: "https://doi.org/10.3130/aija.86.2517"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: "2021-11-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Architecture and Planning (Transactions of AIJ), 86 (789), 2517-2528"
+publication: "Journal of Architecture and Planning (Transactions of AIJ), 86 (789), 2517-2528"
 publication_short: ""
 
 abstract: This paper develops an ABM tool to estimate pedestrian proximity probability with a contagious pedestrian in a station atrium during the COVID-19 pandemic and explore an agent-oriented modeling and simulation framework for emergency space planners and designers. Comparative video analysis before and during the pandemic is conducted, and pedestrian avoidance behavior is divided into PSA (personal spacing avoidance) and LRA (long-range avoidance) for detailed examination. Agent Simulator of Contagious Pedestrian Proximity (ASCPP) was developed to analyze the influence of pedestrians' 'distancing' awareness, mask-wearing, and standing pedestrians.
