@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Researcher at Southeast University and be awarded the Jiangsu Funding Program for Excellent Postdoctoral Talent title. Serves as a member of several professional committees, including the Environmental Behavior Committee and the Aging-Friendly Architecture Committee of the Architectural Society of China, the Hospital Architecture and Culture Subcommittee of the Chinese Architectural Culture Research Association, the Green Hospital Architecture Association of Jiangsu Civil and Architectural Society, and acts as a liaison officer for the Jiangsu Research Association on Aging Development (Aging Civilization Think Tank).
+bio: I am an Assistant Researcher at the School of Architecture, Southeast University. My research centers on applying multi-agent simulation tools to explore and improve safety, efficiency, and user-centered design in urban spaces, healthcare environments, and age-friendly community design.
 
 
 
@@ -83,6 +83,6 @@ user_groups:
 
 Assistant Researcher at Southeast University and be awarded the Jiangsu Funding Program for Excellent Postdoctoral Talent title. Serves as a member of several professional committees, including the Environmental Behavior Committee and the Aging-Friendly Architecture Committee of the Architectural Society of China, the Hospital Architecture and Culture Subcommittee of the Chinese Architectural Culture Research Association, the Green Hospital Architecture Association of Jiangsu Civil and Architectural Society, and acts as a liaison officer for the Jiangsu Research Association on Aging Development (Aging Civilization Think Tank).
 Previously supported by the China Scholarship Council (CSC), obtained a Ph.D. in Engineering from Nagoya Institute of Technology in Japan. Holds dual Master’s degrees in Architecture from Tongji University and in Engineering from Nagoya Institute of Technology as part of a double-degree program.
-Her research focuses on applying multi-agent simulation tools to address safety, efficiency, and human-centered design issues in urban spaces, healthcare environments, and community-based elderly care. Currently serves as Principal Investigator for a funded project under the China Postdoctoral Science Foundation and as a core researcher in two National Key R&D Program projects, one National Natural Science Foundation of China (NSFC) general project, and two national standard development initiatives.
+Her research focuses on applying multi-agent simulation tools to address safety, efficiency, and human-centered design issues in urban spaces, healthcare environments, and age-friendly community design. Currently serves as Principal Investigator for a funded project under the China Postdoctoral Science Foundation and as a core researcher in two National Key R&D Program projects, one National Natural Science Foundation of China (NSFC) general project, and two national standard development initiatives.
 Her work has been published in high-impact journals such as Automation in Construction, Journal of Building Engineering, Artificial Intelligence for Engineering Design, Analysis and Manufacturing, Developments in the Built Environment, and Transactions of AIJ. She has also presented at international conferences, including CUPUM, PED, EDRA, and CEB-ASC.
 
