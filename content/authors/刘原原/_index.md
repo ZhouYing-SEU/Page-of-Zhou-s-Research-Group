@@ -23,7 +23,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant Researcher at Southeast University and be awarded the Jiangsu Funding Program for Excellent Postdoctoral Talent title. Serves as a member of several professional committees, including the Environmental Behavior Committee and the Aging-Friendly Architecture Committee of the Architectural Society of China, the Hospital Architecture and Culture Subcommittee of the Chinese Architectural Culture Research Association, the Green Hospital Architecture Association of Jiangsu Civil and Architectural Society, and acts as a liaison officer for the Jiangsu Research Association on Aging Development (Aging Civilization Think Tank).
-bio: Previously supported by the China Scholarship Council (CSC), obtained a Ph.D. in Engineering from Nagoya Institute of Technology in Japan. Holds dual Master’s degrees in Architecture from Tongji University and in Engineering from Nagoya Institute of Technology as part of a double-degree program.
 
 
 
@@ -77,6 +76,10 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+东南大学助理研究员，江苏省卓越博士后，同时担任中国建筑学会环境行为专业委员会、中国建筑学会适老性建筑专业委员会、中国建筑文化研究会医院建筑与文化分会及江苏省土木建筑学会绿色医院建筑协会委员，以及江苏省老龄事业发展研究会（老龄文明智库）联络员。曾受CSC资助赴日本名古屋工业大学攻读工学博士学位，曾分别于同济大学和名古屋工业大学获得建筑学硕士和工学硕士学位（双学位项目）。研究聚焦于多智能体模拟工具的应用，致力于解决城市空间、医疗建筑及社区养老领域的安全性、效率与人性化设计相关问题。现已主持中国博士后科学基金面上资助项目1项，作为科研骨干参与国家重点研发计划项目2项、国家自然科学基金面上项目1项及国家标准编制2项。研究成果发表于《Automation in Construction》、《Journal of Building Engineering》、《Artificial Intelligence for Engineering Design, Analysis and Manufacturing》《Developments in the Built Environment》及《日本建筑学会计划系论文集（Transactions of AIJ）》等高质量学术期刊。此外，多次在CUPUM、PED、EDRA、CEB-ASC等国际知名学术会议上进行大会宣讲。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Assistant Researcher at Southeast University and be awarded the Jiangsu Funding Program for Excellent Postdoctoral Talent title. Serves as a member of several professional committees, including the Environmental Behavior Committee and the Aging-Friendly Architecture Committee of the Architectural Society of China, the Hospital Architecture and Culture Subcommittee of the Chinese Architectural Culture Research Association, the Green Hospital Architecture Association of Jiangsu Civil and Architectural Society, and acts as a liaison officer for the Jiangsu Research Association on Aging Development (Aging Civilization Think Tank).
+Previously supported by the China Scholarship Council (CSC), obtained a Ph.D. in Engineering from Nagoya Institute of Technology in Japan. Holds dual Master’s degrees in Architecture from Tongji University and in Engineering from Nagoya Institute of Technology as part of a double-degree program.
+Her research focuses on applying multi-agent simulation tools to address safety, efficiency, and human-centered design issues in urban spaces, healthcare environments, and community-based elderly care. Currently serves as Principal Investigator for a funded project under the China Postdoctoral Science Foundation and as a core researcher in two National Key R&D Program projects, one National Natural Science Foundation of China (NSFC) general project, and two national standard development initiatives.
+Her work has been published in high-impact journals such as Automation in Construction, Journal of Building Engineering, Artificial Intelligence for Engineering Design, Analysis and Manufacturing, Developments in the Built Environment, and Transactions of AIJ. She has also presented at international conferences, including CUPUM, PED, EDRA, and CEB-ASC.
+
