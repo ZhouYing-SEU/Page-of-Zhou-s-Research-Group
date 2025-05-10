@@ -28,20 +28,24 @@ bio: Assistant Researcher at Southeast University and be awarded the Jiangsu Fun
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multi-Agent Simulation
+  - Healthcare Environment
+  - Age Friendly Communities
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctor of Engineering
+      institution: Nagoya Institute of Technology, Japan
+      year: 2018 – 2021
+    - course: Master of Engineering
+      institution: Nagoya Institute of Technology, Japan
+      year: 2016 – 2018
+    - course: Master of Architecture
+      institution: Tongji University, China
+      year: 2015 – 2018
+    - course: Bachelor of Architecture
+      institution: Shandong Jianzhu University, China
+      year: 2010 – 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,16 +54,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'liuyuanyuan@seu.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.researchgate.net/profile/Yuanyuan-Liu-34?ev=hdr_xprf
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Yuanyuan-Liu-34?ev=hdr_xprf
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Yuanyuan-Liu-34?ev=hdr_xprf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,7 +77,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 东南大学助理研究员，江苏省卓越博士后，同时担任中国建筑学会环境行为专业委员会、中国建筑学会适老性建筑专业委员会、中国建筑文化研究会医院建筑与文化分会及江苏省土木建筑学会绿色医院建筑协会委员，以及江苏省老龄事业发展研究会（老龄文明智库）联络员。曾受CSC资助赴日本名古屋工业大学攻读工学博士学位，曾分别于同济大学和名古屋工业大学获得建筑学硕士和工学硕士学位（双学位项目）。研究聚焦于多智能体模拟工具的应用，致力于解决城市空间、医疗建筑及社区养老领域的安全性、效率与人性化设计相关问题。现已主持中国博士后科学基金面上资助项目1项，作为科研骨干参与国家重点研发计划项目2项、国家自然科学基金面上项目1项及国家标准编制2项。研究成果发表于《Automation in Construction》、《Journal of Building Engineering》、《Artificial Intelligence for Engineering Design, Analysis and Manufacturing》《Developments in the Built Environment》及《日本建筑学会计划系论文集（Transactions of AIJ）》等高质量学术期刊。此外，多次在CUPUM、PED、EDRA、CEB-ASC等国际知名学术会议上进行大会宣讲。
