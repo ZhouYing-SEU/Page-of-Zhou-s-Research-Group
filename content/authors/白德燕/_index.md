@@ -45,7 +45,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: email
-    icon_pack: 1512328990@qq.com
+    icon_pack: 'xts3342@126.com'
     link: 
   - icon: twitter
     icon_pack: fab
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '1512328990@qq.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
