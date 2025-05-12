@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year Masters student at Southeast University and my research interests are in the field of digital design.
+bio: I am a first year Masters student at Southeast University and my research interest is in the field of digital design.
 
 
 
@@ -36,7 +36,7 @@ education:
       institution: Southeast University, China
       year: 2024 – 2027
     - course: Bachelor of Architecture
-      institution: Ludong University, China
+      institution: Hunan University, China
       year: 2017 – 2022
 
 # Social/Academic Networking
@@ -44,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: email
-    icon_pack: 'xts3342@126.com'
-    link: 
+  - icon: envelope
+    icon_pack: fas
+    link: 'xts3342@126.com'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '1512328990@qq.com'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,7 +71,6 @@ user_groups:
   - Grad Students
 ---
 
-东南大学研究生一年级学生，研究聚焦于适老化社区资源配置。
+东南大学研究生一年级学生，研究聚焦于适老化设计及资源配置问题。
 
-A first year graduate student at Southeast University, her research focuses on allocation of resources in elderly-friendly communities.
-
+A first-year postgraduate student at Southeast University, whose research focuses on elderly-friendly design and community resource allocation.
