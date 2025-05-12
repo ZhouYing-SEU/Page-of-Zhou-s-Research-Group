@@ -71,7 +71,7 @@ user_groups:
   - Grad Students
 ---
 
-东南大学研究生二年级学生，研究聚焦于社区养老及适老化资源配置相关问题。曾在CEB-ASC国际学术会议上进行大会宣讲。
+东南大学研究生一年级学生，研究聚焦于社区养老及适老化资源配置相关问题。
 
 A second year graduate student at Southeast University, her research focuses on issues related to community-based aging and aging-friendly resource allocation. He has presented at the CEB-ASC International Conference.
 
