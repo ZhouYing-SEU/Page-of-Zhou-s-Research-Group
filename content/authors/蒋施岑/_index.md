@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. candidate 
+role: Master's degree candidate 
 
 # Organizations/Affiliations
 organizations:
