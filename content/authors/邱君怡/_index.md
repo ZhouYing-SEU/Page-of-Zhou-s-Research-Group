@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Deyan BAI (白德燕)
+title: Junyi QIU (邱君怡)
 
 # Full name (for SEO)
-first_name: Deyan
-last_name: BAI
+first_name: Junyi
+last_name: QIU
 
 # Username (this should match the folder name)
 authors:
-  - 白德燕
+  - 邱君怡
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,8 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year Masters student at Southeast University and my research interest is in the field of digital design.
+bio: I am a first-year master's student at Southeast University, and my research interest is community facility configuration.
+
 
 
 
@@ -35,9 +36,9 @@ education:
     - course: Master of Architecture
       institution: Southeast University, China
       year: 2024 – 2027
-    - course: Bachelor of Architecture
-      institution: Ludong University, China
-      year: 2017 – 2022
+    - course: Bachelor of Engineering
+      institution: Nanjing Institute of Technology, China
+      year: 2019 – 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,6 +72,7 @@ user_groups:
   - Grad Students
 ---
 
-东南大学研究生一年级学生，研究聚焦于适老化设计及资源配置问题。
+东南大学研究生一年级学生，研究聚焦于社区适老化及设施资源配置问题。
 
-A first-year postgraduate student at Southeast University, whose research focuses on elderly-friendly design and community resource allocation.
+A first-year graduate student at Southeast University, whose research focuses on community aging and facility resource allocation issues.
+
