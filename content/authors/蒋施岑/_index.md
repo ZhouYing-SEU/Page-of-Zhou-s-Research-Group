@@ -25,8 +25,8 @@ organizations:
 bio: To be determined.
 
 interests:
+  - Agent-based Modeling
   - Generative architectural design
-  - Algorithm
 
 education:
   courses:
@@ -71,4 +71,4 @@ user_groups:
 
 东南大学研究生一年级学生。
 
-A first-year postgraduate student at Southeast University. The research direction is to be determined. :D
+A first-year postgraduate student at Southeast University. The research direction is to be determined. 
