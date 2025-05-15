@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang WANG (王哲)
+title: Yang WANG (汪洋)
 
 # Full name (for SEO)
 first_name: Yang
