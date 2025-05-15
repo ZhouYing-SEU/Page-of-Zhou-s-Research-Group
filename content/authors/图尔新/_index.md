@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ph.D. candidate at the School of Architecture, Southeast University. My research focuses on age-friendly housing design strategies, senior care facility design, and environmental behavior studies.
 
 interests:
   - Artificial Intelligence
@@ -31,15 +31,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD student in architecture
+      institution: School of Architecture, Southeast University
+      year: 2020-
+    - course: Master of Architecture
+      institution: School of Architecture, Xi'an University of Architecture and Technology
+      year: 2017-2020
+    - course: Bachelor of Architecture
+      institution: School of Architecture, Tianjin Chengjian University
+      year: 2012-2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -74,6 +74,6 @@ user_groups:
   - Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+图尔新是东南大学建筑学院在读的博士研究生，主要从事老年友好住宅设计策略，养老建筑设计和环境行为学方面的研究。发表A&HCI/SCI论文两篇。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Turxin is a Ph.D. candidate at the School of Architecture, Southeast University. His research focuses on age-friendly housing design strategies, senior care facility design, and environmental behavior studies. He has published two A&HCI/SCI-indexed papers.
