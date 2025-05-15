@@ -25,9 +25,9 @@ organizations:
 bio: Ph.D. candidate at the School of Architecture, Southeast University. My research focuses on age-friendly housing design strategies, senior care facility design, and environmental behavior studies.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Age-friendly housing design strategies
+  - Senior care facility design
+  - Environmental behavior studies
 
 education:
   courses:
