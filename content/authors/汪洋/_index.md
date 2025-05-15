@@ -36,7 +36,7 @@ education:
     - course: Master of Architecture
       institution: Southeast University, China
       year: 2022 – 2025
-    - course: Bachelor of Engineering
+    - course: Bachelor of Architecture
       institution: Southeast University, China
       year: 2017 – 2022
 
