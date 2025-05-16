@@ -37,7 +37,7 @@ education:
       year: 2023 – 2026
     - course: Bachelor of Architecture
       institution: Northeast University, China
-      year: 2017 – 2023
+      year: 2018 – 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
