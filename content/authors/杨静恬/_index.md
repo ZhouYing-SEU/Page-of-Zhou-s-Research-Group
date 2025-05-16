@@ -36,7 +36,7 @@ education:
       institution: Southeast University, China
       year: 2023 – 2026
     - course: Bachelor of Architecture
-      institution: Northeastern University, China
+      institution: Northeast University, China
       year: 2017 – 2023
 
 # Social/Academic Networking
