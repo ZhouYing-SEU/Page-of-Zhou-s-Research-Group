@@ -1,5 +1,5 @@
 ---
-title: "ESimulating staff activities in healthcare environments: An empirical multi-agent modeling approach"
+title: "Simulating staff activities in healthcare environments: An empirical multi-agent modeling approach"
 authors:
 - 刘原原
 - admin
