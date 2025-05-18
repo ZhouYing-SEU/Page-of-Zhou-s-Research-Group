@@ -22,24 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: MMy research focuses on intelligent algorithms and data-driven approaches to facilitate human-centered architectural design. My current work involves VR, Deep Learning, ABM, graph theory, healthcare environment design, aging and human well-being. I have  published several papers on the top international journals including Automation in Construction, Journal of Building Engineering, Developments in Built Environment.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computitional Design
+  - Healthcare Environment
+  - Evidence-Based Design
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Research Assistant
+      institution: Southeast University
+      year: 2023-2025
+    - course: Master of Architecture
+      institution: Southeast University
+      year: 2020-2023
+    - course: Bachelor of Architecture 
+      institution: Henan Polytechnic University
+      year: 2015-2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,7 +71,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
+  - Old girls & boys
 ---
 
 辛阳鹏专注于智能算法和数据驱动方法，以促进以人为本的建筑设计。他目前的工作涉及虚拟现实、深度学习、ABM、图论、医疗环境设计、老龄化和人类福祉。他曾在《Automation in Construction》、《Journal of Building Engineering》、《Developments in Built Environment》等国际顶级期刊上发表多篇论文。
