@@ -7,7 +7,7 @@ author_notes:
 - "Corresponding Author"
 - "Author"
 date: "2019-11-14T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1017/S0890060420000049"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-29T00:00:00Z"
@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Artificial Intelligence for Engineering Design, Analysis and Manufacturing, 34*(2020)"
-publication_short: "https://doi.org/10.1017/S0890060420000049"
+publication_short: ""
 
 abstract: With growing city density and mass gatherings held all over the world in urban spaces, crowd disasters have been happening each year.  In considering the avoidance of crowd disasters and the reduction of fatalities, it is important to analyze the efficient spatial layout of the public space in situations of high crowd density.  Compared with traditional empirical design methods, computational approaches have better abilities for quantitative analysis and are gradually being adopted in the planning and management of the urban public space.  In this paper, we investigated the official documents, publicly available videos, and materials of the Shanghai waterfront crowd disaster which happened on December 31, 2014.  Based on the investigation, a detailed site survey was conducted and pedestrian flow data were acquired. To test the influence of different spatial layouts, an agent-based simulator is built, following the ASPFver4.0 (Agent Simulator of Pedestrian Flow) pedestrian walking rules.  With the surveyed pedestrian flow data, the original spatial layout of the Shanghai Bund waterfront together with five other comparison scenarios are tested, including both space design and crowd management improvements.  In the simulation results, the efficiencies of different space design and crowd management solutions are compared.  The results show that even simple crowd control measures such as capacity reserve and more proper route planning will allow for a positive improvement in crowd safety.  The results also compare the efficiency of different spatial operations and give general suggestions to the problems urban public space designers should consider in high-density environments.
 
