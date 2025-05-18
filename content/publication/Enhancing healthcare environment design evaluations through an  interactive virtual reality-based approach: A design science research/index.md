@@ -24,7 +24,7 @@ publishDate: "2024-04-23T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Developments in the Built Environment, 176*(2025)"
+publication: "*Developments in the Built Environment, 18*(2024)"
 publication_short: ""
 
 abstract: Ignoring a large number of occupants and their behavior in the Healthcare Environment Design Evaluations (HEDE) may lead to biased evaluation results and inefficiencies in the collaborative design process. This study aims to propose a VR-based approach integrating dynamic virtual crowds and human-environment interactions to improve participants’ spatial perception thereby increasing the effectiveness and efficiency of HEDE. This study followed Design Science Research (DSR) to develop an interactive VR-based workflow which was tested in a controlled experiment on the renovation of a real trauma intensive care unit and evaluated by 14 stakeholders including staff and architects. Results of the evaluation showed that dynamic virtual crowds and human-environment interactions helped participants improve spatial perception and were considered crucial for HEDE. The interactive VR-based approach met the criteria of “satisfaction” in terms of accuracy and efficiency. This study underscores the synergy between advanced technology and human-centered design, contributing to social sustainability.
