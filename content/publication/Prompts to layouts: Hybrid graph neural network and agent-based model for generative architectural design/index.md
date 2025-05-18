@@ -9,7 +9,7 @@ author_notes:
 - "Corresponding Author"
 - "Author"
 date: "2025-05-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.autcon.2025.106253"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-05T00:00:00Z"

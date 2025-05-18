@@ -13,7 +13,7 @@ author_notes:
 - "Author"
 - "Author"
 date: "2024-04-18T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.dibe.2024.100440"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-04-23T00:00:00Z"

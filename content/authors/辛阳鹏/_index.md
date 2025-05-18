@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: MMy research focuses on intelligent algorithms and data-driven approaches to facilitate human-centered architectural design. My current work involves VR, Deep Learning, ABM, graph theory, healthcare environment design, aging and human well-being. I have  published several papers on the top international journals including Automation in Construction, Journal of Building Engineering, Developments in the Built Environment.
+bio: My research focuses on intelligent algorithms and data-driven approaches to facilitate human-centered architectural design. My current work involves VR, Deep Learning, ABM, graph theory, healthcare environment design, aging and human well-being. I have  published several papers on the top international journals including Automation in Construction, Journal of Building Engineering, Developments in the Built Environment.
 
 interests:
   - Computitional Design

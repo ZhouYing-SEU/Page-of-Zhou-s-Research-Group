@@ -12,7 +12,7 @@ author_notes:
 - "Author"
 - "Author"
 date: "2024-01-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jobe.2024.108580"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-19T00:00:00Z"
