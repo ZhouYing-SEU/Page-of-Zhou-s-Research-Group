@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Future Environmental Lab
-        content: 'Just join us!'
+      - title: 聚焦未来的人居环境 Future Environmental Lab
+        content: '加入我们！ Just join us!'
         align: right
         background:
           image:
