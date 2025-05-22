@@ -8,10 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 欢迎来到周颖教授研究室
-                👋 Welcome to Prof. Zhou's research group
-        content: 了解我们的最新研究...
-                  Take a look at what we're working on...
+      - title: 欢迎来到周颖教授研究室 👋 Welcome to Prof. Zhou's research group
+        content: 了解我们的最新研究... Take a look at what we're working on...
         align: center
         background:
           image:
@@ -20,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: 学与玩 Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -30,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Future Environmental Lab
+        content: 'Just join us!'
         align: right
         background:
           image:
