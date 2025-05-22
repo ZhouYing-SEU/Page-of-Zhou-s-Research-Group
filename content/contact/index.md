@@ -21,8 +21,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '118.79478872'
-        longitude: '32.05484751'
+        latitude: '32.05484751'
+        longitude: '118.79478872'
       directions: Enter Zhongshan Building and take the stairs to Office 315 on Floor 3
       office_hours:
         - 'Monday 10:00 to 13:00'
