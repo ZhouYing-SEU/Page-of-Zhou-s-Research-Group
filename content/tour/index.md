@@ -8,8 +8,10 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 欢迎来到周颖教授研究室
+                👋 Welcome to Prof. Zhou's research group
+        content: 了解我们的最新研究...
+                  Take a look at what we're working on...
         align: center
         background:
           image:
@@ -23,7 +25,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: lunch & learn.jpg
             filters:
               brightness: 0.7
           position: center
