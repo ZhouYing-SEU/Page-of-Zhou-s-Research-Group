@@ -23,7 +23,7 @@ sections:
       coordinates:
         latitude: '32.05484751'
         longitude: '118.79478872'
-      directions: Enter Zhongshan Building and take the stairs to Office 315 on Floor 3
+      directions: 中大院3楼315 Enter Zhongda Building and take the stairs to Office 315 on Floor 3
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
