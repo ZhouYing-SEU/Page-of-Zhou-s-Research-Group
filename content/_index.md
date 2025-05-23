@@ -15,6 +15,7 @@ sections:
       text: |
         <br>
         
+        周颖教授研究室专注于前沿的建筑学研究、教学、实践
         The **Prof. Zhou's Research Group** has been a center of excellence for Architectual research, teaching, and practice since its founding in 2016.
   
   - block: collection

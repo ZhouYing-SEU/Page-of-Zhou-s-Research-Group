@@ -28,6 +28,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 我们的成果 Our works
+          url: https://kdocs.cn/l/cqvWteYO7zH8
       - title: 聚焦未来的人居环境 Future Environmental Lab
         content: '加入我们！ Just join us!'
         align: right
@@ -41,7 +46,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: 加入我们 Join Us
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
